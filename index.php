@@ -114,7 +114,7 @@
 	        	</label>
 	        <?php } ?>
 	        </div>
-	        <div class="d-flex justify-content-center align-items-center">
+	        <div class="d-flex justify-content-center align-items-center m-5">
 	        	<button class="btn btn-primary active text-center">View selected images</button>
 	        </div>
         </form>

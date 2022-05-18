@@ -26,8 +26,8 @@
 </head>
 <body>
 	<?php ?>
-	<section class="mx-4">
-    	<p class="text-center h3">Selected Image Gallery</p>
+	<section class="m-4">
+    	<p class="text-center h3 my-4">Selected Image Gallery</p>
 	        <div class="d-flex justify-content-center align-items-center flex-wrap">
 	        <?php 
 	    		while ($img = $data->fetch_assoc()) {
